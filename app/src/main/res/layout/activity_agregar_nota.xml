@@ -29,7 +29,7 @@
         android:id="@+id/et_contenido"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textColor="@color/secondaryText"
+        android:textColor="@color/divider"
         android:hint="Escribir nota..."
         android:inputType="textMultiLine"
         android:layout_weight="1"
@@ -40,7 +40,7 @@
         android:id="@+id/boton_guardar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@color/colorPrimaryDark"
+        android:background="@color/colorAccent"
         android:textColor="@color/primaryText"
         android:text="Guardar"
         />
